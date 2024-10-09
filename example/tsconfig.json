@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@juansev/code-editor": ["../src/index"],
+      "@juansev/code-editor/*": ["../src/*"]
+    }
+  }
+}
