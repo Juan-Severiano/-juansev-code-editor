@@ -28,9 +28,12 @@
   "author": "Francisco Juan <juansoussev@gmail.com> (https://github.com/Juan-Severiano)",
   "license": "MIT",
   "homepage": "https://github.com/Juan-Severiano/code-editor#readme",
-  "dependencies": {},
+  "dependencies": {
+    "react-syntax-highlighter": "^15.5.0"
+  },
   "devDependencies": {
     "@types/react": "^18.0.25",
+    "@types/react-syntax-highlighter": "^15.5.13",
     "expo-module-scripts": "^3.5.2",
     "expo-modules-core": "^1.12.24"
   },
